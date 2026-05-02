@@ -1,0 +1,30 @@
+{
+  "name": "ap23110010762",
+  "version": "1.0.0",
+  "description": "Campus Notifications Microservice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rams2006sing/AP23110010762.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^6.0.0",
+    "@mui/material": "^6.0.0",
+    "axios": "^1.6.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
